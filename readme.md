@@ -1,4 +1,6 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/williamkoller/umbriel)
+[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/williamkoller/umbriel)
 
 Enviar emails para uma lista de forma fácil
 ------
