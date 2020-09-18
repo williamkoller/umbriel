@@ -1,3 +1,5 @@
+![GitHub top language](https://img.shields.io/github/languages/top/williamkoller/umbriel)
+
 Enviar emails para uma lista de forma fácil
 ------
 
